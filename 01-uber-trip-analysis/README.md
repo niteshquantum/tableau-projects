@@ -9,7 +9,7 @@ The dashboards are fully interactive, allowing users to filter by **date, city, 
 ---
 
 ## 📂 Project Structure
-
+```
 01-uber-trip-analysis/
 │
 ├── data/ # Raw dataset (Excel files)
@@ -26,7 +26,7 @@ The dashboards are fully interactive, allowing users to filter by **date, city, 
 │ └── logo/ # Logo images used in dashboards
 │
 └── README.md # Project documentation (this file)
-
+```
 ---
 
 ## 📊 Key Dashboards & Insights
