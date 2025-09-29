@@ -78,13 +78,13 @@ The dashboards are fully interactive, allowing users to filter by **date, city, 
 *(Screenshots stored in `images/` folder)*  
 
 **Overview Dashboard**  
-![Overview Dashboard](images/dashboard_overview.png)
+[Overview Dashboard](./images/dashboard_overview.jpg)
 
 **Time Analysis Dashboard**  
-![Time Dashboard](images/dashboard_time.png)
+[Time Dashboard](./images/dashboard_time.jpg)
 
 **Routes & Surge Insights Dashboard**  
-![Routes Dashboard](images/dashboard_routes.png)
+[Routes Dashboard](./images/dashboard_routes.jpg)
 
 ---
 
