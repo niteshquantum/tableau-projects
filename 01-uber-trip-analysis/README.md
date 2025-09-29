@@ -88,6 +88,4 @@ The dashboards are fully interactive, allowing users to filter by **date, city, 
 
 ---
 
-## 🙌 Author
-Created by **Nitesh**
 
